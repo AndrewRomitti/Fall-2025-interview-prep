@@ -1,2 +1,38 @@
-# interviewPrep
-The repo where I will journal my interview prep
+# 💻 Interview Prep 2025
+
+I made this repo to journal and keep track of my daily interview grind for the Fall 2025 Internship cycle. It will include LeetCode-style problems, explanations, behavioral interview stuff, and all that is needed for me to hopefully not get cooked.
+
+## Why I made this
+
+I want to:  
+- Master core DSA
+- Practice real patterns (NeetCode 150)
+- Build consistency with daily problems solving  
+- Keep track of what I learn and my growth
+- Stay accountable, hopefully commiting to this and getting that green github graph will make me locked in 💚
+
+---
+
+## Repo Structure 📁
+- problems/ -> LeetCode problems categorized by topic from NeetCode 150
+- recaps/ -> Weekly recaps I do on my progress
+- clown/ -> Explained further down  
+
+## Schedule 📆
+
+- ✅ 1-2 LeetCode problems per day  
+- ✅ Fully written explanation for each problem I solve  
+- ✅ Weekly recap of progress + goals
+
+## Progress Tracker ✅
+7/20/25 I made the repo and did a problem so more to come here
+
+
+## Clown-Driven Development (CDD)
+
+If anyone catches me slipping, like I am missing a week, or not pushing anything in this folder then PLEASE open a pull request adding a file in the `/clown/` directory to roast me.
+
+### Rules:
+- Clown me only if I am lacking  
+- Bonus points for memes, markdown roasts, all of that  
+- If it's valid then I will merge it to keep myself accountable
