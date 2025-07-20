@@ -1,19 +1,19 @@
 # Climbing Stairs
 
-**Link:** (https://neetcode.io/problems/climbing-stairs?list=neetcode150)
-**Difficulty:** Easy
-**Date Solved:** 7/20/25
-**Category:** Dynamic Programming
+**Link:** (https://neetcode.io/problems/climbing-stairs?list=neetcode150)  
+**Difficulty:** Easy  
+**Date Solved:** 7/20/25  
+**Category:** Dynamic Programming  
 
 ## Problem Statement
-You are given a number of stairs that you are meant to go up, you can go up one stair or you can go up two stairs at a time, how many possible ways are there to go up the number of stairs you are given
+You are given a number of stairs that you are meant to go up, you can go up one stair or you can go up two stairs at a time, how many possible ways are there to go up the number of stairs you are given  
 
 ## Approach
-The way that I broke down this DP problem is by first figuring out the recursive brute force solution. This boils down to, you start at 0 and do a recursive call where you go up one stair and a recursive call where you go up 2 stairs, summing those together gets you the total number.
+The way that I broke down this DP problem is by first figuring out the recursive brute force solution. This boils down to, you start at 0 and do a recursive call where you go up one stair and a recursive call where you go up 2 stairs, summing those together gets you the total number.  
 
-Now you apply memoization to this brute force solution. I created a hashmap, and before the base case I said if the i (current stair) I am on is in the hashmap, then return that. Else keep going, but now for the sum I want you to add that sum to the hashmap.
+Now you apply memoization to this brute force solution. I created a hashmap, and before the base case I said if the i (current stair) I am on is in the hashmap, then return that. Else keep going, but now for the sum I want you to add that sum to the hashmap.  
 
-This improves the runtime drastically by not having to go over solutions already seen in the recursive call.
+This improves the runtime drastically by not having to go over solutions already seen in the recursive call.  
 
 ## Code
 ```java
@@ -42,7 +42,7 @@ class Solution {
 ``` 
 
 ## Time Complexity
-**Time Complexity**: O(n)
+**Time Complexity**: O(n)  
 **Space Complexity**: O(n)
 
 ## Additional Notes
