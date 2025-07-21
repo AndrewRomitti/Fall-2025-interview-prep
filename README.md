@@ -25,7 +25,10 @@ I want to:
 - ✅ Weekly recap of progress + goals
 
 ## Progress Tracker ✅
-7/20/25 I made the repo and did a problem so more to come here
+| Date       | Problems Solved       | Topics Covered     | Notes                           |
+|------------|------------------------|---------------------|----------------------------------|
+| 2025-07-20 | Climbing Stairs        | Dynamic Programming | Made Repo, Learned basics of setting up DP  |
+| 2025-07-21 | Min Cost Climbing Stairs      | Dynamic Programming | Kept improving DP skills, getting the feel for it more |
 
 
 ## Clown-Driven Development (CDD)
