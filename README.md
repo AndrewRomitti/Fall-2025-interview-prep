@@ -31,6 +31,7 @@ I want to:
 | 2025-07-21 | Min Cost Climbing Stairs      | Dynamic Programming | Kept improving DP skills, getting the feel for it more |
 | 2025-07-22 | House Robber      | Dynamic Programming | Kept improving DP skills, solved House Robber in under 15 mins with no hints! |
 | 2025-07-23 | House Robber II      | Dynamic Programming | Kept improving DP skills, studied the optimized solution for House Robber |
+| 2025-07-24 | Coin Change      | Dynamic Programming | Kept improving DP skills, understanding bottom up solutions better |
 
 
 ## Clown-Driven Development (CDD)
