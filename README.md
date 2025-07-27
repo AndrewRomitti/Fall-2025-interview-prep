@@ -33,7 +33,7 @@ I want to:
 | 2025-07-23 | House Robber II      | Dynamic Programming | Kept improving DP skills, studied the optimized solution for House Robber |
 | 2025-07-24 | Coin Change      | Dynamic Programming | Kept improving DP skills, understanding bottom up solutions better |
 | 2025-07-25 | Longest Palindromic Substring      | Dynamic Programming | Kept improving DP skills, got stuck on this problem, and need to work on understanding it |
-
+| 2025-07-26 | Palindromic Substrings      | Dynamic Programming | Due to problem I solved yesterday this problem was really easy and I knew the trick and how to optimize it really fast :) |
 
 ## Clown-Driven Development (CDD)
 
