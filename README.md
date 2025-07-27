@@ -20,7 +20,7 @@ I want to:
 
 ## Schedule 📆
 
-- ✅ 1-2 LeetCode problems per day  
+- ✅ 1-2 LeetCode problems per day  (will ramp up when I get back to college, but rn I work full time :/)  
 - ✅ Fully written explanation for each problem I solve  
 - ✅ Weekly recap of progress + goals
 
