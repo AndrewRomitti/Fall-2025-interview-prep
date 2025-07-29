@@ -35,6 +35,7 @@ I want to:
 | 2025-07-25 | Longest Palindromic Substring      | Dynamic Programming | Kept improving DP skills, got stuck on this problem, and need to work on understanding it |
 | 2025-07-26 | Palindromic Substrings      | Dynamic Programming | Due to problem I solved yesterday this problem was really easy and I knew the trick and how to optimize it really fast :) |
 | 2025-07-27 | Maximum Product Subarray      | Dynamic Programming | Learned Kadane's Algorithm and kept practicing DP |
+| 2025-07-28 | None, reviewed Arrays, Hashing, and Sliding Window      | Arrays, Hashing, Sliding Window | Didn't manage my time well, so was too tired to do a problem after work. Not a valid excuse so feel free to clown me for this day guys :/ |
 
 ## Clown-Driven Development (CDD)
 
