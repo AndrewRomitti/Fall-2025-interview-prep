@@ -36,6 +36,7 @@ I want to:
 | 2025-07-26 | Palindromic Substrings      | Dynamic Programming | Due to problem I solved yesterday this problem was really easy and I knew the trick and how to optimize it really fast :) |
 | 2025-07-27 | Maximum Product Subarray      | Dynamic Programming | Learned Kadane's Algorithm and kept practicing DP |
 | 2025-07-28 | None, reviewed Arrays, Hashing, and Sliding Window      | Arrays, Hashing, Sliding Window | Didn't manage my time well, so was too tired to do a problem after work. Not a valid excuse so feel free to clown me for this day guys :/ |
+| 2025-07-30 | Didn't do anything yesterday or today. This is so cooked, I applied to like 10 internships today, prob gonna get ghosted to them all. If Dante was alive right now, then he would've added that SWE recruiting is the 10th level of hell. I just wanna build cool stuff, why I gotta reverse a linked list for that     | I'm Cooked | I'm so cooked |
 
 ## Clown-Driven Development (CDD)
 
